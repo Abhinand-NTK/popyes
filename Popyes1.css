@@ -190,7 +190,7 @@ p {
 .button3 {
 
     background-color: #f25600;
-    color: #ffffff;
+    color: #f5f1ef;
     border: none;
     height: 30px;
     width: 100px;
@@ -200,7 +200,8 @@ p {
 }
 
 .button3:hover {
-    background-color: #f4e4d6;
+    background-color: #f27108;
+ 
 }
 
 .button4 {
@@ -308,7 +309,7 @@ p {
 
 .nil {
 
-    width: 2000px;
+    width: 1080px;
     display: flex;
     margin-bottom: 10px;
     border-bottom: solid 2px;
@@ -317,10 +318,9 @@ p {
 }
 
 .buttonfooter button {
-    margin-left: 20px;
+   
     background-color: #ffffff;
     color: #f25600;
-    ;
     border-width: 1px;
     border-color: #f25600;
     height: 30px;
@@ -329,6 +329,7 @@ p {
     font-weight: bold;
     border-radius: 26px;
     margin-top: 20px;
+    
 }
 
 .nil {
@@ -344,4 +345,8 @@ p {
     margin-top: 25px;
     margin-left: 40px;
     margin-right: 0;
+}
+.buttonfooter button:hover
+{
+    background-color: #f4e4d6;
 }
