@@ -17,7 +17,6 @@ body {
     border-radius: 15px 15px 0px 0px;
 }
 
-
 p {
     display: inline-block;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
@@ -72,12 +71,9 @@ p {
     border-radius: 26px;
     margin: 0;
     position: absolute;
-    /* -ms-transform: translateY(-50%);
-    transform: translateY(-25%);
-    z-index: 99; */
 }
-.orderbutton button:hover
-{
+
+.orderbutton button:hover {
     background-color: #f4e4d6;
 }
 
@@ -85,7 +81,7 @@ p {
     position: fixed;
     padding-left: 30px;
     padding-right: 200px;
-    /* justify-content: space-between; */
+
     display: flex;
     margin: 0;
     height: 77 px;
@@ -95,14 +91,10 @@ p {
 
 }
 
-
 .welcome {
     padding-top: 190px;
-    /* margin-top:120px ; */
     margin-left: 160px;
     margin-right: 140px;
-
-
 }
 
 .ava {
@@ -126,9 +118,9 @@ p {
     font-weight: bold;
     border-radius: 26px;
 }
-.button:hover
-{
-    background-color:#ff7c00;
+
+.button:hover {
+    background-color: #ff7c00;
 }
 
 .button1 {
@@ -142,8 +134,8 @@ p {
     font-weight: bold;
     border-radius: 26px;
 }
-.button1:hover
-{
+
+.button1:hover {
     color: #f25600;
 
 }
@@ -153,7 +145,7 @@ p {
     padding-right: 70px;
     padding-top: 20px;
     padding-bottom: 20px;
-    /* padding: 70px; */
+
     column-gap: 15px;
 }
 
@@ -206,9 +198,11 @@ p {
     font-weight: bold;
     border-radius: 26px;
 }
-.button3:hover{
+
+.button3:hover {
     background-color: #f4e4d6;
 }
+
 .button4 {
     margin-left: 20px;
     background-color: #ffffff;
@@ -221,8 +215,8 @@ p {
     font-weight: bold;
     border-radius: 26px;
 }
-.button4:hover
-{
+
+.button4:hover {
     background-color: #f4e4d6;
 }
 
@@ -258,20 +252,21 @@ p {
 
 }
 
-.footertext1{
-    border-right:solid 1px;
-    padding-right:10px ;
+.footertext1 {
+    border-right: solid 1px;
+    padding-right: 10px;
     padding-left: 10px;
     text-decoration: none;
-    
+
 
 }
-.footertext1:hover
-{
+
+.footertext1:hover {
     text-decoration: underline;
 
 }
-.footertext2{
+
+.footertext2 {
     font-size: 16px;
     color: #f5f1ef;
     width: 85%;
@@ -281,39 +276,38 @@ p {
     font-family: sans-serif;
     font-weight: bold;
     line-height: 8px;
-    
-    
+
+
 
 }
-.fixed
-{
+
+.fixed {
     position: fixed;
     width: 100%;
     height: 70px;
-    background-color:#ffffff;
+    background-color: #ffffff;
     z-index: 100;
     left: 0;
     bottom: 0;
     display: flex;
 
 }
-.logofooter
-{
-    
+
+.logofooter {
+
     border-radius: 50%;
     text-align: end;
     margin-top: 80px;
 }
-.logofooter img
-{
+
+.logofooter img {
     margin-left: 10px;
     border-radius: 50%;
-   
+
 }
 
-.nil
-{
-   
+.nil {
+
     width: 2000px;
     display: flex;
     margin-bottom: 10px;
@@ -321,11 +315,12 @@ p {
     color: #1f1f1f;
     margin-left: 100px;
 }
-.buttonfooter button
-{
+
+.buttonfooter button {
     margin-left: 20px;
     background-color: #ffffff;
-    color: #f25600;;
+    color: #f25600;
+    ;
     border-width: 1px;
     border-color: #f25600;
     height: 30px;
@@ -334,16 +329,16 @@ p {
     font-weight: bold;
     border-radius: 26px;
     margin-top: 20px;
-}  
-.nil
-{
+}
+
+.nil {
     margin-left: 20px;
     width: 1010 px;
     line-height: 1px;
 
 }
-.navigation img
-{
+
+.navigation img {
     width: 20px;
     height: 20px;
     margin-top: 25px;
